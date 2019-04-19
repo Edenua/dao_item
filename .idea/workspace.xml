@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65668046-d83b-4d68-8199-0019c812c7ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1数据类型及转换/数据类型转换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2其他数据类型转换/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS对表单元素进行设置1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS对表单元素进行设置1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS对表单元素进行设置2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS对表单元素进行设置2/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他数据类型转换/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/其他数据类型转换/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/变量作用域/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3运算符/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/变量作用域/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多条件控制语句/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/4变量作用域/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多条件控制语句/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/5多条件控制语句/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符函数（上）/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/字符函数（上）/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数学函数/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/数学函数/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型及转换/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型及转换/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/运算符/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/5多条件控制语句/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/运算符/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/3运算符/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1482611533">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="23" />
+          <entry key="js" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="23" />
+          <entry key="JavaScript" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="399" />
+          <entry key="js" value="89" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="399" />
+          <entry key="JavaScript" value="89" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS对表单元素进行设置3/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS对表单元素进行设置4/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS对表单元素进行设置3/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/数据类型及转换/index.js" />
+        <option value="$PROJECT_DIR$/数据类型及转换/index.html" />
+        <option value="$PROJECT_DIR$/数据类型及转换/数据类型转换.html" />
+        <option value="$PROJECT_DIR$/其他数据类型转换/index.js" />
+        <option value="$PROJECT_DIR$/其他数据类型转换/index.html" />
+        <option value="$PROJECT_DIR$/变量作用域/index.js" />
+        <option value="$PROJECT_DIR$/变量作用域/index.html" />
+        <option value="$PROJECT_DIR$/字符函数（上）/index.js" />
+        <option value="$PROJECT_DIR$/1数据类型及转换/数据类型转换.html" />
+        <option value="$PROJECT_DIR$/数学函数/index.js" />
+        <option value="$PROJECT_DIR$/JS对表单元素进行设置1/index.js" />
+        <option value="$PROJECT_DIR$/JS对表单元素进行设置2/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="57" />
+    <option name="width" value="807" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaScript入门源代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript入门源代码" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript入门源代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript入门源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="1数据类型及转换" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript入门源代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript入门源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="JS对表单元素进行设置1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript入门源代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript入门源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="JS对表单元素进行设置2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript入门源代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript入门源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="JS对表单元素进行设置3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript入门源代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript入门源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="JS对表单元素进行设置4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript入门源代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript入门源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="字符函数（上）" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript入门源代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript入门源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="字符函数（下）" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript入门源代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript入门源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="循环语句" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript入门源代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript入门源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="数学函数" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript入门源代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript入门源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="日期函数" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript入门源代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript入门源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="程序控制语句" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript入门源代码" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript入门源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="自定义函数" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65668046-d83b-4d68-8199-0019c812c7ca" name="Default Changelist" comment="" />
+      <created>1555665250795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555665250795</updated>
+      <workItem from="1555665252967" duration="8842000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8842000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="57" y="0" width="807" height="775" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32509753" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/第一个js程序/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一个js程序/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序控制语句/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据类型及转换/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS对表单元素进行设置7/js/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3运算符/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3运算符/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/其他数据类型转换/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2其他数据类型转换/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/变量作用域/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4变量作用域/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5多条件控制语句/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5多条件控制语句/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1数据类型及转换/数据类型转换.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/循环语句/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/循环语句/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符函数（上）/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符函数（上）/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符函数（下）/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/字符函数（下）/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数学函数/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数学函数/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/日期函数/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/程序控制语句/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/日期函数/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS对表单元素进行设置1/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS对表单元素进行设置1/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS对表单元素进行设置2/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS对表单元素进行设置2/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS对表单元素进行设置3/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS对表单元素进行设置3/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS对表单元素进行设置4/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

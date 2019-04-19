@@ -8,6 +8,7 @@ function checkInterest(){
 		document.getElementById("btn1").value="全不选";
 	}else{
 		document.getElementById("btn1").value="全选";
+		document.getElement
 	}
 	flag=!flag;//开关变量
 }

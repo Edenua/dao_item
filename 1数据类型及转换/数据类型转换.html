@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>数据类型转换</title>
+	<script type="text/javascript" >
+        /*
+        *数据类型的转换,isNaN()作用检测是否数字，是则true，否则f
+        */
+        // var str="123";
+        // console.log(str*1+1);
+        // console.log(parseInt(str)+1);
+        // var str1="abc";
+        // if(!isNaN(str1)){
+        // 	console.log(parseInt(str1));
+        // }else{
+        // 	console.log("is error");
+        // 	str1=0;
+        // }
+        // console.log(str1);
+		console.log("start...");
+		var x="a123";
+		var flag=isNaN("123");
+		var n=parseInt(x);
+		console.log("n==="+n);
+		console.log("flag==="+flag);
+		console.log(typeof 123);
+        var scope='global';
+        function f(){
+            console.log(scope);    //输出‘undefined’，而不是‘global’
+            var scope='local';  //变量在这里赋初始值，但变量本身在函数体内任何地方均是有定义的。
+            console.log(scope);  //输出‘local’
+        }
+        f();
+        var arr = [9,9];
+		console.log(arr.length ) //2
+
+
+	</script>
+</head>
+<body>
+	
+</body>
+</html>

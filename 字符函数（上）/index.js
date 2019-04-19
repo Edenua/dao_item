@@ -1,7 +1,8 @@
 var str="520134199906061224";
 console.log(str.substr(6,4));//起始位置，长度
 console.log(str.substring(6,10));//起始位置，结束位置
-var n=parseInt(str.charAt(16))
+var n=parseInt(str.charAt(16));
+console.log(n);
 if(n % 2==0){
 	console.log("nv");
 }else{
